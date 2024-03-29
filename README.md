@@ -4,7 +4,7 @@ LifeFlow is designed to connect blood donors with recipients in need, streamlini
 ![love lINK (2)](https://github.com/abhii2002/LifeFlow/assets/87520905/c53845fb-3786-4435-8aa9-123959225b44)
 
  # Download
- Download the app from [here](https://github.com/abhii2002/MarvelBunch/releases/tag/v1.0.0)
+ Download the app from [here](https://github.com/abhii2002/LifeFlow/releases/tag/1.0.0)
  
 # Tech stack & Open-source libraries. 
  - Minimum SDK level 24
