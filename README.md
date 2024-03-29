@@ -1,5 +1,3 @@
-
-https://github.com/abhii2002/LifeFlow/assets/87520905/42795534-68af-464d-8e15-6047bd81782c
 # LifeFlow
 LifeFlow is designed to connect blood donors with recipients in need, streamlining the donation process and saving lives with just a few taps
 
